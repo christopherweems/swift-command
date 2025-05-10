@@ -4,7 +4,7 @@
 import PackageDescription
 
 let package = Package(
-    name: "SwiftCommand",
+    name: "swift-command",
     platforms: [
         .macOS(.v10_15)
     ],
